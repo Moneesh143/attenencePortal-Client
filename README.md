@@ -1,26 +1,30 @@
+# Attendence Portal using MERN Stack 
+This project is a web application built with the MERN (MongoDB, Express.js, React.js, Node.js) stack to get attendence details.
+## Frontend Integration:
 
+  + [Frontend Github Link](https://github.com/Moneesh143/attenencePortal-Client.git)
+  + [Frontend Netlify Deployment Link](https://attenence-portal.vercel.app/)
+  
+## Backend Integration
+ 
+  + [Backend Github Link](https://github.com/Moneesh143/attenencePortal-Server.git)
+  + [Backend Render Deployment Link](https://server-x52k.onrender.com/)
 
+## Technologies
+  + **MongoDB:** NoSQL database used to `store user information.`
+  + **Express.js:** Web application *framework for Node.js* used to handle `server-side logic and routing.`
+  + **React.js:** `JavaScript library for building user interfaces` used to create an *interactive and dynamic front-end*.
+  + **Node.js:** JavaScript *runtime environment used to execute server-side code.*
+  + **Bootstrap:** `Front-end framework `used for designing responsive and mobile-first websites.
+  + **JWT:** JSON Web Tokens used for authentication and `securing API endpoints.`
 
-## Usage
+## Contributing 
+     
+Contributions are welcome! If you'd like to contribute to the project, please follow these steps:
 
-This starter pack includes a basic setup for using **Tailwind CSS with React**. To start building your own components and styles, follow these steps:
-
-
-1. Install the required packages.
-    ```sh
-    cd react-tailwind-css-starter-pack
-    npm install
-    ```
-
-2. Start the development server.
-    ```sh
-    npm start
-    ```
-3. Open the project in your browser at [`http://localhost:3000`](http://localhost:3000) to view your project.
-4. Create your React components and add your styles using Tailwind classes. You can also create new CSS files and import them into your components.
-
-The project is set up to use `postcss-cli` to process your CSS files. You can add your own `tailwind.config.js` file to customize your Tailwind setup
-
-## Contributing
-
-Contributions are welcome! If you have any suggestions or find any issues, please feel free to open an issue or a pull request.
+   + Fork the repository.
+   + Create a new branch (git checkout -b feature/feature-name).
+   + Make your changes.
+   + Commit your changes (git commit -am 'Add new feature').
+   + Push to the branch (git push origin feature/feature-name).
+   + Create a new Pull Request.
